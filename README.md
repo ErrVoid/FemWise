@@ -75,7 +75,11 @@ This way, I could put my energy into the **medical + problem-solving side** whil
 
 ## 📸 Screenshots  
 
-*(Add UI mockups or app screenshots here)*  
+Here’s a look at the Femwise app in action:  
+
+| Onboarding | Onboarding | Home Screen | Body detail | scientific |
+|-------------|----------------|-------------|-------------|----------|
+| ![Home1](home1.png) | ![Home2](home2.png) | ![Home3](home3.png) | ![Home4](home4.png) | ![Home5](home5.png) |
 
 ---
 
