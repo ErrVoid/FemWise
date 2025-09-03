@@ -84,7 +84,7 @@ This way, I could put my energy into the **medical + problem-solving side** whil
 👤 **Tanish Kumar**  
 🎓 Student at PU, pursuing BDS  
 💡 Interested in problem solving & app building  
-📧 kumartanish011@gmail.com 
+📧 kumartanish011@gmail.com  
 🔗 https://github.com/ErrVoid
 
 ---
