@@ -77,9 +77,9 @@ This way, I could put my energy into the **medical + problem-solving side** whil
 
 Here’s a look at the Femwise app in action:  
 
-| Onboarding | Onboarding | Home Screen | Body detail | scientific |
+| Onboarding | On boarding | Home Screen | Mood | Body detail |
 |-------------|----------------|-------------|-------------|----------|
-| ![Home1](home1.png) | ![Home2](home2.png) | ![Home3](home3.png) | ![Home4](home4.png) | ![Home5](home5.png) |
+| ![Home1](sreenshots/home1.png) | ![Home2](sreenshots/home2.png) | ![Home3](sreenshots/home3.png) | ![Home4](sreenshots/home4.png) | ![Home5](sreenshots/home5.png) |
 
 ---
 
