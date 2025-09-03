@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256744766770",
+    "project_id": "femhealth-1ea91",
+    "storage_bucket": "femhealth-1ea91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256744766770:android:a498806bc6b53b87676b2b",
+        "android_client_info": {
+          "package_name": "com.Tanish.FemHealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256744766770-lcfoht1bgaiq3bnmmc8e3ss99b0673qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwInEYXZ3DJE4ig4OXg4ZX_eFhXxjiHGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256744766770-lcfoht1bgaiq3bnmmc8e3ss99b0673qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
